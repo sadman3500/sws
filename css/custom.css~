@@ -1,0 +1,30 @@
+@media (min-width: 900px) {
+	
+	.navbar-nav li a{
+		padding:20px 60px;
+		font-size:1.3em;
+	}
+	.navbar-nav .active a{
+		background-color:#C2DFF0!important;
+		}
+	
+	
+	.navbar-brand {
+		height:95px;
+		}
+	.navbar-header {
+		height:50px;
+		}
+		
+	.marketing h2 {
+		color:#49A9DF
+	}
+	.marketing {
+		color:#555;
+		}
+	body {
+		padding-top:50px;
+	}
+		
+	
+}
